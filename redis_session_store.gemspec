@@ -5,7 +5,7 @@ require "redis_session_store/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "redis_session_store"
+  s.name        = "redis_session_storage"
   s.version     = RedisSessionStore::VERSION
   s.authors     = ["Chris Weston"]
   s.email       = ["notsew66@yahoo.com"]
