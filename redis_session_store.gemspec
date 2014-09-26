@@ -1,12 +1,12 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain your gem's version:
-require "redis_session_store/version"
+require "redis_session_storage/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "redis_session_storage"
-  s.version     = RedisSessionStore::VERSION
+  s.version     = RedisSessionStorage::VERSION
   s.authors     = ["Chris Weston"]
   s.email       = ["notsew66@yahoo.com"]
   s.homepage    = "https://github.com/Notsew/"

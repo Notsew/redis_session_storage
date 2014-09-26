@@ -1,7 +1,7 @@
 require 'redis'
 module ActionDispatch
 	module Session
-    	class RedisSessionStore < AbstractStore
+    	class RedisSessionStorage < AbstractStore
 
 	      def initialize(app, options = {})
 	        host = options[:host] || '127.0.0.1'
