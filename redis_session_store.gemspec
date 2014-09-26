@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = RedisSessionStore::VERSION
   s.authors     = ["Chris Weston"]
   s.email       = ["notsew66@yahoo.com"]
-  s.homepage    = "http://www.google.com"
-  s.summary     = "Summary of RedisSessionStore."
-  s.description = "Description of RedisSessionStore."
+  s.homepage    = "https://github.com/Notsew/"
+  s.summary     = "Redis session storage for Rails"
+  s.description = "Redis session storage for Rails"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
