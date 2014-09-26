@@ -11,7 +11,7 @@ Edit config/initializers/session_storage.rb with the following:
 	
     Rails.application.config.session_store :redis_session_storage
     
-#options
+#Options
 
 	Rails.application.config.session_store :redis_session_storage, {options}
     

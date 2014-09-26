@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = RedisSessionStorage::VERSION
   s.authors     = ["Chris Weston"]
   s.email       = ["notsew66@yahoo.com"]
-  s.homepage    = "https://github.com/Notsew/"
+  s.homepage    = "https://github.com/Notsew/redis_session_storage"
   s.summary     = "Redis session storage for Rails"
   s.description = "Redis session storage for Rails"
   s.license     = "MIT"
