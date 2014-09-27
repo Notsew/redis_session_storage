@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    redis_session_storage (0.0.5)
+    redis_session_storage (0.0.7)
       redis (~> 3.1)
 
 GEM
